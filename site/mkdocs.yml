@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Сайт с документацией дисциплины "Программирование на Python"
+site_url: https://nzhukov.github.io/feb602itmo/
+nav:
+    - Home: index.md
+    - About: about.md
+
