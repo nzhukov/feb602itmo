@@ -2,8 +2,18 @@
 
 ## Сегодня - отличный день!
 
-sfas
-fsdf
+Сегодня занятие 21/02/2026, где мы разбираем лабораторную работу 2
+
+Пример вставки изображения в Markdown:
+
+![Изображение графика раздела 5. Визуализация](https://matplotlib.org/stable/_images/sphx_glr_image_annotated_heatmap_001.png)
+
+```python 
+print('hello, world')
+```
+
+
+
 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
