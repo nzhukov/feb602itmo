@@ -2,7 +2,7 @@
 
 ## Сегодня - отличный день!
 
-Сегодня занятие 21/02/2026, где мы разбираем лабораторную работу 2
+Сегодня занятие 20/03/2026, где мы разбираем лабораторную работу 3 (на основе github actions).
 
 Пример вставки изображения в Markdown:
 
@@ -11,11 +11,6 @@
 ```python 
 print('hello, world')
 ```
-
-
-
-
-
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
